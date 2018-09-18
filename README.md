@@ -14,5 +14,6 @@ Password = yourpassword
 
 # Configuração do Script
 1 - Baixe o script e altere as variáveis para adaptar ao seu uso;
+
 2 - Crie um job de backup com o crontab usando o comando "crontab -e", com um conteúdo parecido com o seguinte:
 10 0 * * *   /usr/bin/backupFirebird.sh # Script que roda a meia noite e 10 todos o dias
