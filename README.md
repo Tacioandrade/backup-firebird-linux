@@ -9,7 +9,9 @@ sudo apt-get install p7zip p7zip-full megatools sendemail
 Crie o arquivo nano ~/.megarc com o seguinte conteúdo:
 
 [Login]
+
 Username = your@email
+
 Password = yourpassword
 
 # Configuração do Script
